@@ -3,8 +3,8 @@
 Create a visualization for Bikesharing, show the trip duration start and stop-times. The project is for Des Moines a business to open, and we had to create a bike analysis. Each visualization is a final presentation for the investors.
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-
-
+Checkout Times By Users
+[!](https://github.com/gabby338414/Bikesharing/blob/969fe7ac1b1cb36df5ce41d8f3df948ecedc19c5/Checkout_Times.PNG)
 
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
